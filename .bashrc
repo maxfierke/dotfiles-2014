@@ -108,6 +108,10 @@ alias gg='gitg'
 alias sagi='sudo apt-get install'
 alias sagu='sudo apt-get upgrade'
 alias sagc='sudo apt-get clean'
+alias sage='sudo apt-get'
+alias composer='php ~/bin/composer.phar'
+export DEBFULLNAME="Max Fierke"
+export DEBEMAIL="max@maxfierke.com"
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
