@@ -106,13 +106,12 @@ alias l='ls -CF'
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 alias sn='sudo nano'
+alias sv='sudo vim'
 alias oil='php oil'
 alias gg='gitg'
-alias sagi='sudo apt-get install'
-alias sagu='sudo apt-get upgrade'
-alias sagc='sudo apt-get clean'
 alias sage='sudo apt-get'
 alias composer='php ~/bin/composer.phar'
+alias scheme='mit-scheme'
 export DEBFULLNAME="Max Fierke"
 export DEBEMAIL="max@maxfierke.com"
 # Alias definitions.
