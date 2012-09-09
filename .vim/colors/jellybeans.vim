@@ -1,6 +1,3 @@
-
-<!-- saved from url=(0075)https://raw.github.com/nanotech/jellybeans.vim/master/colors/jellybeans.vim -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style class="flashcontrol" style="display: none; " type="text/css">/*FlashControl*/object[type$="x-shockwave-flash"]:not([classid]),object[type$="futuresplash"]:not([classid]),embed[type$="x-shockwave-flash"],embed[type$="futuresplash"]{display:none !important}</style></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">" Vim color file
 "
 "  "    __       _ _       _                             "
 "  "    \ \  ___| | |_   _| |__   ___  __ _ _ __  ___    "
@@ -535,4 +532,3 @@ delf s:grey_color
 delf s:grey_level
 delf s:grey_number
 " }}}
-</pre></body><style type="text/css"></style></html>
