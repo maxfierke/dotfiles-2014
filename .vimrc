@@ -12,3 +12,4 @@ source $VIMRUNTIME/mswin.vim
 behave mswin
 set fileformats=unix,dos
 set fileformat=unix
+set pastetoggle=<f10>
