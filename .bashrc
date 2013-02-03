@@ -16,7 +16,7 @@ shopt -s histappend
 HISTSIZE=1000
 HISTFILESIZE=2000
 
-export PATH="/home/mfierke/scripts:/home/mfierke/bin:/home/mfierke/bin/android-sdk-linux/platform-tools:$PATH"
+export PATH="/home/mfierke/scripts:/home/mfierke/.gem/ruby/1.9.1/bin:/home/mfierke/bin:/home/mfierke/bin/android-sdk-linux/platform-tools:$PATH"
 export EDITOR="vim"
 
 # check the window size after each command and, if necessary,
