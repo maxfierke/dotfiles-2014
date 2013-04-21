@@ -16,7 +16,7 @@ shopt -s histappend
 HISTSIZE=1000
 HISTFILESIZE=2000
 
-export PATH="/home/mfierke/scripts:/home/mfierke/.gem/ruby/1.9.1/bin:/home/mfierke/bin:/home/mfierke/bin/android-sdk-linux/platform-tools:$PATH"
+export PATH="/opt/extras.ubuntu.com/gwoffice/bin:/home/mfierke/scripts:/home/mfierke/.gem/ruby/1.9.1/bin:/home/mfierke/bin:/home/mfierke/bin/android-sdk-linux/platform-tools:$PATH"
 export EDITOR="vim"
 
 # check the window size after each command and, if necessary,
@@ -129,3 +129,6 @@ fi
 if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
